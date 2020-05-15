@@ -4,6 +4,15 @@ This is a version of the Basic One-Way example at the repository below, modified
 
 https://github.com/module-federation/module-federation-examples
 
+# Instructions
+
+Install yarn and lerna globally.
+
+To install packages for both apps:
+
+```
+lerna bootstrap
+```
 
 # Basic One-Way Example
 
