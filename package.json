@@ -8,5 +8,6 @@
   },
   "dependencies": {
     "lerna": "^3.21.0"
-  }
+  },
+  "name": "module-federation-ts-loader"
 }
